@@ -1,1 +1,29 @@
-# -git-github-training
+## Contributers
+Thank you to the following contributors who have helped to improve this project:
+<table>
+  <tr>
+    <th> Name </th>
+     <th> Email </th>
+     <th> Phone </th>
+  </tr>
+  <tr>
+    <td> Md Nahidul Islam </th>
+     <td> nahid.islam@bjitacademy.com </th>
+     <td> 01825747641 </th>
+  </tr>
+  <tr>
+    <td> Farzana Rahman </th>
+     <td> farzana.rahman@bjitacademy.com </th>
+     <td> 01825747641 </th>
+  </tr>
+  <tr>
+    <td> Mahmuda Keya </th>
+     <td> mahmuda.keya@bjitacademy.com </th>
+     <td> 01825747641 </th>
+  </tr>
+  <tr>
+    <td> Sadia Zaman Nishat </th>
+     <td> sadia.nishat@bjitacademy.com </th>
+     <td> 01959977792 </th>
+  </tr>
+</table>
