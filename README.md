@@ -9,7 +9,7 @@ people understand **what** the main goal and aim of the project is._<br/>
 
 <img alt="Coder GIF" src="https://thumbs.dreamstime.com/b/banner-devops-vector-illustration-concept-software-engineering-culture-practice-development-operation-137594571.jpg" style="max-width: 100%;" data-target="animated-image.originalImage"><br/>
 
-#2. Project Description
+## Project Description
 This is an important component of your project that many new developers often overlook.
 Your description is an extremely important aspect of your project. A well-crafted description 
 allows you to show off your work to other developers as well as potential employers.
@@ -17,9 +17,9 @@ The quality of a README description often differentiates a good project from a b
 
 A good one takes advantage of the opportunity to explain and showcase:
 
-• What your application does,
-• Why you used the technologies you used,
-• Some of the challenges you faced and features you hope to implement in the future.
+- What your application does,
+- Why you used the technologies you used,
+- Some of the challenges you faced and features you hope to implement in the future.
 file for details. <a href="https://example.com" style="text-decoration: underline; color: blue;">click</a> here for more details.
 
 
@@ -38,7 +38,6 @@ app. This template doesn't rely on any external dependencies or services.*
 
 
 ## Contributers
->>>>>>> 6fb46c452176742fe20f8fdab685b0b921ad0098
 Thank you to the following contributors who have helped to improve this project:
 <table>
   <tr>
