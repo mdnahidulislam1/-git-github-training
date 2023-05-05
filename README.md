@@ -1,3 +1,15 @@
+# Table of Contents
+1. Project's Title
+2. Project Description
+3. Installation
+4. Contributors
+## Project's Title
+_This is the name of the project. It describes the whole project in one sentence, and helps 
+people understand **what** the main goal and aim of the project is._<br/>
+
+<img alt="Coder GIF" src="https://thumbs.dreamstime.com/b/banner-devops-vector-illustration-concept-software-engineering-culture-practice-development-operation-137594571.jpg" style="max-width: 100%;" data-target="animated-image.originalImage"><br/>
+
+
 ## 3. Installation
 
 *Below is an example of how you can instruct your audience on installing and setting up your 
@@ -10,9 +22,10 @@ app. This template doesn't rely on any external dependencies or services.*
 `npm install`
 4. Enter your API in config.js
 `const API_KEY = 'ENTER YOUR API';`
-==============================================================================
 
-## 4. Contributers
+
+## Contributers
+>>>>>>> 6fb46c452176742fe20f8fdab685b0b921ad0098
 Thank you to the following contributors who have helped to improve this project:
 <table>
   <tr>
