@@ -1,4 +1,3 @@
-
 # Table of Contents
 1. Project's Title
 2. Project Description
@@ -11,9 +10,22 @@ people understand **what** the main goal and aim of the project is._<br/>
 <img alt="Coder GIF" src="https://thumbs.dreamstime.com/b/banner-devops-vector-illustration-concept-software-engineering-culture-practice-development-operation-137594571.jpg" style="max-width: 100%;" data-target="animated-image.originalImage"><br/>
 
 
+## 3. Installation
+
+*Below is an example of how you can instruct your audience on installing and setting up your 
+app. This template doesn't rely on any external dependencies or services.*
+
+1. Get a free API Key at this [link](https://bjitacademy.com)
+2. Clone the repo
+`git clone https://github.com/your_username_/Project-Name.git`
+3. Install NPM packages
+`npm install`
+4. Enter your API in config.js
+`const API_KEY = 'ENTER YOUR API';`
 
 
 ## Contributers
+>>>>>>> 6fb46c452176742fe20f8fdab685b0b921ad0098
 Thank you to the following contributors who have helped to improve this project:
 <table>
   <tr>
